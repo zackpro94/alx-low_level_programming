@@ -3,8 +3,9 @@
 #include <stdlib.h>
 
 
-/*
+/**
  * main - positive or negative
+ * print one
  * Return: 0 sucess
  */
 
