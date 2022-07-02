@@ -11,8 +11,8 @@ int main(void)
 
 	for (z = 0; z <= 9; z++)
 	{
-		putchar(z);
+		printf("%d", z);
 	}
-	putchar('\n');
+	printf('\n');
 	return (0);
 }
