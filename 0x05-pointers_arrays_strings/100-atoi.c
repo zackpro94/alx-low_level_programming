@@ -44,5 +44,3 @@ int _atoi(char *s)
 
 	return (n);
 }
-Footer
-© 2022 GitHub, Inc.
