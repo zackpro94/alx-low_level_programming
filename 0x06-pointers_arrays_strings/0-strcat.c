@@ -4,6 +4,7 @@
  * _stract - contatrnate two strings
  * @dest: string to append to
  * @src: string to add
+ *
  * Return: a pointer to the resulting
  */
 
