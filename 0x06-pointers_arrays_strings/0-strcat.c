@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * _stract - contatrnate two strings
+ * _strcat - contatrnate two strings
  * @dest: string to append to
  * @src: string to add
  *
  * Return: a pointer to the resulting
  */
 
-char *_stract(char *dest, char *src)
+char *_strcatt(char *dest, char *src)
 {
 	int i, j;
 
